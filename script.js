@@ -105,7 +105,7 @@ function displayText(){
     
   
    
-  let pad = 300;
+  let pad = 50;
   let bodyWidth = window.innerWidth;
   let bodyHeight = window.innerHeight;
   let randPosX = randomIntFromInterval(pad/2, bodyWidth-pad);
