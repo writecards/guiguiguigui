@@ -67,14 +67,14 @@ span {
     position:absolute;
     width:2px;
     background-color:red;
-    transition: 3s;
+    transition: 0.3s;
   }  
 
   #line2{
     position:absolute;
     width:2px;
     background-color:red;
-    transition: 2s;
+    transition: 0.2s;
   }  
 
   #line3{
@@ -88,12 +88,12 @@ span {
     position:absolute;
     width:2px;
     background-color:red;
-    transition: 1s;
+    transition: 0.7s;
   }  
 
   #line5{
     position:absolute;
     width:2px;
     background-color:red;
-    transition: 0.5s;
+    transition: 0.4s;
   }  
